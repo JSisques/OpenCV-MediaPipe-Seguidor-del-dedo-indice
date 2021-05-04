@@ -1,6 +1,6 @@
 import cv2
 import mediapipe as mp
-from cuadrantes import Cuadrante
+
 mp_drawing = mp.solutions.drawing_utils
 mp_hands = mp.solutions.hands
 
